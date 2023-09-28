@@ -11,5 +11,4 @@ def min(data):
 
 def median(data):
     #Takes the data returns the median value
-    return np.median(data) 
-    
+    return np.median(data)
